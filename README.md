@@ -11,7 +11,9 @@ KULLANACAĞIM VERİTABANI : Microsoft SQL Server
 # İş Yönetimi
 
 1- Veritabanı oluşturulacak.Tablolar hazırlanacak ve düzenlenecek.(Sevgi Başçeken)
+
 2- Kod kısmında öncelikle ana menü oluşturulucak. Ana menü üzerinden gerektikçe form eklenecek.(Sevgi Başçeken)
+
 3- Web arayüzü tasarımı oluşturulacak.(Sevgi Başçeken)
 
 Sevgi Başçeken
